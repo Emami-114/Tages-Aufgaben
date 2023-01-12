@@ -48,7 +48,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.GutscheinKt">
+  <component name="RunManager" selected="Kotlin.ComparisonKt">
+    <configuration name="ComparisonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparisonKt" />
+      <module name="Aufgabe8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GutscheinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GutscheinKt" />
       <module name="Aufgabe6" />
@@ -79,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ComparisonKt" />
         <item itemvalue="Kotlin.GutscheinKt" />
         <item itemvalue="Kotlin._5_VorhersagenKt" />
         <item itemvalue="Kotlin._2_VorhersagenKt" />
