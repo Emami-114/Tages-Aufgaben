@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6851a1-f2b7-4211-9772-0e474b7e661f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tag18_Projekt/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tages Aufgaben.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tag18_Projekt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tag18_Projekt/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea6851a1-f2b7-4211-9772-0e474b7e661f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,27 +17,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="4b34425e-569e-4d92-9a45-c4030cb7f0b7" />
-        <option name="url" value="https://github.com/Emami-114/Tag19_Projekt.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KC1EGdSpyYAxJBqmU9YgNahOVU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +31,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ecc/Desktop/Aufgaben/Tages Aufgaben/Tag19_Projekt&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,14 +48,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ComparisonKt">
-    <configuration name="ComparisonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComparisonKt" />
-      <module name="Aufgabe8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.GutscheinKt">
     <configuration name="GutscheinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GutscheinKt" />
       <module name="Aufgabe6" />
@@ -89,9 +56,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollTheDiceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RollTheDiceKt" />
-      <module name="Aufgabe7" />
+    <configuration name="_1_VorhersagenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1_VorhersagenKt" />
+      <module name="Aufgabe1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +79,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ComparisonKt" />
-        <item itemvalue="Kotlin.RollTheDiceKt" />
         <item itemvalue="Kotlin.GutscheinKt" />
         <item itemvalue="Kotlin._5_VorhersagenKt" />
         <item itemvalue="Kotlin._2_VorhersagenKt" />
+        <item itemvalue="Kotlin._1_VorhersagenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,23 +96,10 @@
       <updated>1673463639706</updated>
       <workItem from="1673463641082" duration="2279000" />
       <workItem from="1673465928045" duration="277000" />
-      <workItem from="1673517872492" duration="7324000" />
-      <workItem from="1673526355878" duration="326000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

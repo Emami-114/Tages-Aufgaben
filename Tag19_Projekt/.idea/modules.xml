@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe1/Aufgabe1.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe1/Aufgabe1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe2/Aufgabe2.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe2/Aufgabe2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe4/Aufgabe4.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe4/Aufgabe4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe5/Aufgabe5.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe5/Aufgabe5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe6/Aufgabe6.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe6/Aufgabe6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe7/Aufgabe7.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe7/Aufgabe7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe8/Aufgabe8.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Aufgabe8/Aufgabe8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Tag19_Projekt.iml" filepath="$PROJECT_DIR$/../../../intelliJ/Tages-Aufgaben/src/main/kotlin/Tag19_Projekt/Tag19_Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe1/Aufgabe1.iml" filepath="$PROJECT_DIR$/Aufgabe1/Aufgabe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe2/Aufgabe2.iml" filepath="$PROJECT_DIR$/Aufgabe2/Aufgabe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe4/Aufgabe4.iml" filepath="$PROJECT_DIR$/Aufgabe4/Aufgabe4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe5/Aufgabe5.iml" filepath="$PROJECT_DIR$/Aufgabe5/Aufgabe5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe6/Aufgabe6.iml" filepath="$PROJECT_DIR$/Aufgabe6/Aufgabe6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe7/Aufgabe7.iml" filepath="$PROJECT_DIR$/Aufgabe7/Aufgabe7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe8/Aufgabe8.iml" filepath="$PROJECT_DIR$/Aufgabe8/Aufgabe8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tag19_Projekt.iml" filepath="$PROJECT_DIR$/Tag19_Projekt.iml" />
     </modules>
   </component>
 </project>
