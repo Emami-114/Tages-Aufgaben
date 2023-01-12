@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6851a1-f2b7-4211-9772-0e474b7e661f" name="Changes" comment="" />
+    <list default="true" id="ea6851a1-f2b7-4211-9772-0e474b7e661f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe7/src/RollTheDice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe7/src/RollTheDice.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,6 +36,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -63,9 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_VorhersagenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1_VorhersagenKt" />
-      <module name="Aufgabe1" />
+    <configuration name="RollTheDiceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RollTheDiceKt" />
+      <module name="Aufgabe7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,10 +95,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.ComparisonKt" />
+        <item itemvalue="Kotlin.RollTheDiceKt" />
         <item itemvalue="Kotlin.GutscheinKt" />
         <item itemvalue="Kotlin._5_VorhersagenKt" />
         <item itemvalue="Kotlin._2_VorhersagenKt" />
-        <item itemvalue="Kotlin._1_VorhersagenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -104,10 +112,23 @@
       <updated>1673463639706</updated>
       <workItem from="1673463641082" duration="2279000" />
       <workItem from="1673465928045" duration="277000" />
+      <workItem from="1673528642660" duration="257000" />
+      <workItem from="1673535491809" duration="2158000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
