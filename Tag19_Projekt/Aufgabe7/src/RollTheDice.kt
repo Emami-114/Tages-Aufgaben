@@ -1,3 +1,4 @@
+import java.sql.DriverManager.println
 import kotlin.random.Random.Default.nextInt
 
 fun main() {
@@ -23,3 +24,4 @@ fun main() {
     }
 
 }
+
